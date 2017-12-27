@@ -8,6 +8,14 @@ From original project's description:
 
 I have changed these examples to use MXNet. I deleted some exercises that didn't make sense for MXNet. I also used different sources for some notebooks (for example *Variables* notebook is adapted from Kyubyong's [PyTorch exercises](https://github.com/keon/pytorch-exercises)). 
 
+### Useful links:
+
+[A practicioner's guide to MXNet](http://home.cse.ust.hk/~xshiab/data/MXNet.pdf) - brief tutorial with simple code examples
+
+[MXNet - the straight dope](https://github.com/zackchase/mxnet-the-straight-dope) - notebook-style deep learning course
+
+[Deep learning implementations and frameworks tutorial](https://sites.google.com/site/dliftutorial/) - compares different frameworks. May be esp. useful for people who know how to program in a different DL framework.
+
 * Constants, Sequences, and Random Values (DONE)
 * Graphs (DONE)
 * Variables (DONE)
