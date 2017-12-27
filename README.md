@@ -16,11 +16,13 @@ I have changed these examples to use MXNet. I deleted some exercises that didn't
 
 [Deep learning implementations and frameworks tutorial](https://sites.google.com/site/dliftutorial/) - compares different frameworks. May be esp. useful for people who know how to program in a different DL framework.
 
+### Table of contents
+
 * Constants, Sequences, and Random Values (DONE)
 * Graphs (DONE)
 * Variables (DONE)
 * Reading Data (WIP)
-* Tensor Transformations (WIP)
+* Tensor Transformations (DONE)
 * Math Part 1 (WIP)
 * Math Part 2 (WIP)
 * Math Part 3 (WIP)
