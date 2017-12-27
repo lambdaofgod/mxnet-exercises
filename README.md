@@ -23,7 +23,7 @@ I have changed these examples to use MXNet. I deleted some exercises that didn't
 * Variables (DONE)
 * Reading Data (WIP)
 * Tensor Transformations (DONE)
-* Math Part 1 (WIP)
+* Math Part 1 (DONE)
 * Math Part 2 (WIP)
 * Math Part 3 (WIP)
 * Strings (WIP)
